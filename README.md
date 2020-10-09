@@ -21,7 +21,7 @@ There is also a chat feature in the game and during room waiting plus a video ca
 # Current Features
 * Online Multiplayer
 * Single player practice mode
-* Game Rooms 
+* Game Rooms snfjdsnfkdsmfklmsdklfmsdklcmsdklcmklsdc
 * Chatting
 
 # Currently working on
